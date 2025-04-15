@@ -1,3 +1,5 @@
+/Healthcare_Life_Sciences/data/lish-moa/
+
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
